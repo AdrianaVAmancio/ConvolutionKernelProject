@@ -1,2 +1,0 @@
-# ConvolutionKernelProject
- Convolution Kernel Project
