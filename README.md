@@ -1,11 +1,11 @@
 
 Course: Science Computing  - Software Development (GMIT)
-Module: Object Oriented Software Developmen
+Module: Object Oriented Software Development
 PROJECT: Filtering an Image with a Convolution Kernel
 
 DESCRIPTION
 
-Project developed as part of the module ÒObject OrientedÓ in the H. Dip. In Science (Software Development) course at GMIT. 
+Project developed as part of the module Object Oriented Software Development, in the H. Dip. In Science (Software Development) course at GMIT. 
 
 This project aim to present an application able to do image processing using Convolution Kernel, what consist of a 2D array that reads an image pixel by pixel, applying the filters pre-defined in the Matrix  choosen by the users, and afterward present an output with this Ònew imageÓ after the process.
 
